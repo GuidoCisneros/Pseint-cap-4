@@ -1,2 +1,2 @@
 # Pseint-cap-4
-Ejercicio capitulo 6
+Ejercicio capitulo 4
